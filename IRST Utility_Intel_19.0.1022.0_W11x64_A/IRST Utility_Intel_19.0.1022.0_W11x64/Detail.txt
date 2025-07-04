@@ -1,0 +1,13 @@
+[INFORMATION]
+Projects=Penguin_ADP;Thebe_ADU;Callisto_ADU;Shark_ADP;Ganymede_ADU;Amalthea_ADU;Europa_ADU;
+OSs=Windows Next All X64;
+WHQL=Y,
+ProviderFullName=Intel
+SelectedDriverType=Driver Utility
+Installer=
+Parameters=
+InfFiles=
+DriverUtilityInstaller=
+DriverUtilityParameters=
+UWPSourceFolder=%RELATIVE_PATH%
+UWPInstaller=Install_UWP.cmd

@@ -1,0 +1,13 @@
+[INFORMATION]
+Projects=Amalthea_ADU;Thebe_ADU;Nikka_ADP;Royalsalute_ADU;Ganymede_ADU;Callisto_ADU;Jade_ADU;Europa_ADU;Vision_ADU;
+OSs=Windows Next All X64;
+WHQL=Y,
+ProviderFullName=Intel
+SelectedDriverType=Use Inf
+Installer=%RELATIVE_PATH%\Install.cmd
+Parameters=
+InfFiles=%RELATIVE_PATH%\iaStorHsa_Ext.inf;%RELATIVE_PATH%\iaStorHsaComponent.inf;%RELATIVE_PATH%\iaStorVD.inf;
+DriverUtilityInstaller=
+DriverUtilityParameters=
+UWPSourceFolder=
+UWPInstaller=

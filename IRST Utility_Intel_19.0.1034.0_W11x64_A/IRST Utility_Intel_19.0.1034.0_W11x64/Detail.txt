@@ -1,0 +1,13 @@
+[INFORMATION]
+Projects=Birkin_RTU;Coral_RTH;
+OSs=Windows 10 All X64;Windows Next All X64;
+WHQL=Y,
+ProviderFullName=Intel
+SelectedDriverType=Driver Utility
+Installer=
+Parameters=
+InfFiles=
+DriverUtilityInstaller=
+DriverUtilityParameters=
+UWPSourceFolder=%RELATIVE_PATH%
+UWPInstaller=Install_UWP.cmd
